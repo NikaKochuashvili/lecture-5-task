@@ -1,0 +1,259 @@
+@import url("//cdn.web-fonts.ge/fonts/bpg-square/css/bpg-square.min.css");
+@import url("//cdn.web-fonts.ge/fonts/bpg-nino-mtavruli-bold/css/bpg-nino-mtavruli-bold.min.css");
+
+@import url("//cdn.web-fonts.ge/fonts/bpg-nostalgia/css/bpg-nostalgia.min.css");
+@import url('https://fonts.cdnfonts.com/css/helvetica-neue-lt-w1g');
+
+
+header{
+    margin: 50px;
+}
+.htmllogo{
+   
+    vertical-align: middle;
+}
+nav{
+    display: inline-block;
+    vertical-align: middle;
+}
+li{
+    display: inline-block;
+   margin-left: 87px;
+}
+.active{
+    color: #4E6FAE;
+
+}
+a{
+    color: #8D81FF;
+    font-family: FiraGO;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.codepic{
+    vertical-align: top;
+    margin-right: 66px;
+
+}
+.pdiv{
+    vertical-align: top;
+    display: inline-block;
+    width: 778px;
+    font-weight: 300;
+}
+p{
+    color: #4E6FAE;
+    font-family: FiraGO;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+article{
+    margin-left: 52px;
+    margin-bottom: 150px;
+}
+.my26{
+    width: 50px;
+    height: 50px;
+    background-color: #5012d5;
+    color: #84FF81;
+    font-family: Helvetica, Arial, sans-serif;
+
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 12px;
+    margin-bottom: 18px;
+}
+.date{
+    margin-bottom: 8px;
+    color: #8D81FF;
+    font-family: FiraGO;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.tag-content{
+    margin-bottom: 14px;
+    color: #4E6FAE;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+#tag-content1{
+    font-family: "BPG Square", sans-serif;
+
+}
+#paragrafi-1{
+    font-family: "BPG Square", sans-serif;
+    font-weight: 300;
+}
+#tag-content2{
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+
+}
+#paragrafi-2{
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+    font-weight: 300;
+}
+#tag-content3{
+    font-family: "BPG Nostalgia", sans-serif;
+
+}
+#paragrafi-3{
+    font-family: "BPG Nostalgia", sans-serif;
+    font-weight: 300;
+}
+.html-img{
+    margin: 100px 418px;
+}
+.news-info{
+    margin-left: 10px;
+}
+.title-div{
+    margin-left: 184px;
+}
+.line-div{
+    width: 2px;
+    height: 24px;
+    background: #5012D5;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 17px;
+    margin-bottom: 9px;
+}
+.news-s{
+    color: #4E6FAE;
+    font-family: FiraGO;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.news-info{
+    color: #4E6FAE;
+    font-family: FiraGO;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.mybox1{
+    width: 500px;
+    height: 192px;
+    background: #E7E7E7;
+    margin-left: 270px;
+    margin-top: 15px;
+    display: inline-block;
+}
+.mybox2{
+    width: 500px;
+    height: 192px;
+    background: #E7E7E7;
+    margin-left: 52px;
+    margin-top: 15px;
+    display: inline-block;
+}
+.box-heading{
+    color: #3F4145;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 20px;
+    margin: 0 0 20px 20px ;
+}
+.box-description{
+    color: #7E8898;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    width: 335px;
+    height: 95px;
+    margin-left: 22px;
+    vertical-align: top;
+    
+}
+.search-img{
+    margin-left: 36px;
+    margin-bottom: 21px;
+}
+.footer-box{
+    margin: 90px 0 194px 52px ;
+}
+.footer-line{
+    display: inline-block;
+    width: 2px;
+    height: 48px;
+    background: #5012D5;
+    margin-left: 41px;
+    margin-right: 41px;
+}
+.fb{
+    display: inline-block;
+}
+.yt{
+    display: inline-block;
+}
+.footer-box-nws{
+    margin: 90px 0 194px 325px ;
+}
+.s-2{
+    width: 100%;
+    height: 735px;
+    background-color: #E7E7E7;
+}
+.contact-info{
+    display: inline-block;
+    margin-left: 162px;
+    padding-top: 106px;
+    vertical-align: top;
+}
+.c-info{
+    color: #4E6FAE;
+    font-family: "Helvetica Neue";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 27px;
+}
+.adress{
+    color: #3F4145;
+    font-family: "Helvetica Neue LT GEO";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-bottom: 11px;
+}
+.adress-answ{
+    color: #7E8898;
+    font-family: "Helvetica Neue LT GEO";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    
+}
+.footer-box-cnt{
+    margin: 117px 0 180px 94px ;
+}
+.map-container{
+    display: inline-block;
+    margin-top: 123px;
+    margin-left: 20px;
+}
